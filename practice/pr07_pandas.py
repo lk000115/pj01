@@ -6,6 +6,6 @@ df = pd.read_excel(r'F:\books\工资条.xlsx')
 print(df.head().columns.values)  # 打印表头
 print(df.values)  # 打印表的值-不含表头行
 print('------------------')
-lt=[]
-lt=df.head().columns.values
-print(lt)
+tmp=[]
+tmp=df.head().columns.values
+print(tmp)
