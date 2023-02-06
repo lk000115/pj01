@@ -4,4 +4,6 @@ ws = wb.active
 print(ws)
 for cell in ws["1"]:
     print(cell.value)
-sdsdsdll
+print('sdsdsd')
+
+# 已经更新20230206
