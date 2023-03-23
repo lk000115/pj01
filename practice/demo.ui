@@ -17,7 +17,7 @@
    <widget class="QPushButton" name="pushButton_2">
     <property name="geometry">
      <rect>
-      <x>110</x>
+      <x>70</x>
       <y>240</y>
       <width>111</width>
       <height>51</height>
@@ -27,13 +27,13 @@
      <string>发送</string>
     </property>
    </widget>
-   <widget class="QWidget" name="">
+   <widget class="QWidget" name="layoutWidget">
     <property name="geometry">
      <rect>
       <x>60</x>
-      <y>110</y>
+      <y>70</y>
       <width>671</width>
-      <height>61</height>
+      <height>71</height>
      </rect>
     </property>
     <layout class="QHBoxLayout" name="horizontalLayout">
@@ -71,8 +71,8 @@
    <slot>show01()</slot>
    <hints>
     <hint type="sourcelabel">
-     <x>683</x>
-     <y>167</y>
+     <x>729</x>
+     <y>144</y>
     </hint>
     <hint type="destinationlabel">
      <x>697</x>
